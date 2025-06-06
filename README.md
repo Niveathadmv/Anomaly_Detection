@@ -1,5 +1,4 @@
-# Anomaly_Detection
-Anomaly Detection Using Isolation Forest and SHAP for Enhanced Interpretation
+# Anomaly Detection Using Isolation Forest and SHAP for Enhanced Interpretation
 
 This project demonstrates how to detect anomalies in avocado sales data using the Isolation Forest algorithm, and how to interpret the model's predictions using SHAP (SHapley Additive exPlanations).
 
